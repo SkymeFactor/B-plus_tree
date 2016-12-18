@@ -1,0 +1,9 @@
+﻿  Utilite.c
+c:\users\skyme\source\repos\b-plus_tree\b+tree\b+tree\utilite.c(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\skyme\source\repos\b-plus_tree\b+tree\b+tree\utilite.c(82): warning C4101: t: неиспользованная локальная переменная
+  Insertion.c
+  Deletion.c
+  Создание кода...
+  B+tree.vcxproj -> C:\Users\Skyme\Source\Repos\B-plus_tree\B+tree\Debug\B+tree.exe
+  B+tree.vcxproj -> C:\Users\Skyme\Source\Repos\B-plus_tree\B+tree\Debug\B+tree.pdb (Full PDB)
